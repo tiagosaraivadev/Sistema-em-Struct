@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1560866392 source:c:\users\1215641\desktop\c\ti-semv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+
+1560906823 source:c:\users\mathe\onedrive\Área de trabalho\ti-semv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+
+1671726049 source:f:\aed1\viverbem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<windows.h>
+
